@@ -15,7 +15,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="3"
-            android:text="192.168.1.100" />
+            android:hint="your pc ip" />
 
         <EditText
             android:id="@+id/et_port"
@@ -23,14 +23,14 @@
             android:layout_height="wrap_content"
             android:inputType="textPersonName"
             android:layout_weight="1"
-            android:text="9099" />
+            android:hint="your pc port" />
     </LinearLayout>
 
     <EditText
         android:id="@+id/et_msg"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="dir:C:\\Users\\wukai\\Desktop\\入党有关材料\\发展对象培训" />
+        android:hint="enter command" />
 
     <Button
         android:text="Send Message"
