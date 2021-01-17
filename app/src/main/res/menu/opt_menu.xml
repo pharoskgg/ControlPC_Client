@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="?android:attr/actionModeSplitBackground"
+        android:id="@+id/opt_mousepad"
+        android:title="Item"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/opt_return"
+        android:icon="@drawable/abc_vector_test"
+        app:showAsAction="always"
+        android:title="Return" />
+    <item
+        android:id="@+id/opt_upload"
+        android:icon="@android:drawable/stat_sys_upload"
+        android:title="Upload"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_hotkey"
+        android:title="HotkeyDialog" />
+    <item
+        android:id="@+id/menu_dlf"
+        android:title="DownLoadFile" />
+    <item
+        android:id="@+id/menu_opn"
+        android:title="Opn" />
+</menu>
