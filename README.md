@@ -25,4 +25,4 @@
 
 1.  Get the file directory :      dir:path
 2. Send message to PC:      cps:message
-3. Use PC to execute cmd command:     cmd cmd-command
+3. Use PC to execute cmd command:     cmd:cmd-command
